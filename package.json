@@ -1,0 +1,23 @@
+{
+  "name": "desafio-produtorio-node",
+  "version": "1.0.0",
+  "description": "Desafio de realização do cálculo de produtório de modo iterativo e recursivo utilizando node.js com express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goncalves-c97/desafio-produtorio-node.git"
+  },
+  "author": "Carlos Henrique Bezerra Gonçalves",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/goncalves-c97/desafio-produtorio-node/issues"
+  },
+  "homepage": "https://github.com/goncalves-c97/desafio-produtorio-node#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
